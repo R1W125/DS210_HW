@@ -1,0 +1,2 @@
+test_recipe: rice, milk, apples, chicken, eggs, tuna, cocoa, chocolate, sugar, candy,
+test_recipe2: water, chicken, eggs, tuna, cocoa, chocolate, sugar, candy,
